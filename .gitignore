@@ -1,0 +1,16 @@
+# Private dataset / archives
+dataset/
+*.zip
+
+# Python / macOS
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.env
+
+# Automatically-generated weights and bulk logs
+runs/
+
+# Local auxiliary files
+*.log
