@@ -353,6 +353,11 @@ On the held-out test dataset, it achieved:
 
 The results show that YOLO26n can detect the three hand gestures with high accuracy on this dataset, although some objects are still missed.
 
+
+## Additional
+
+Use camera.py to apply model on your camera and try this detection in live. 
+
 ## References
 
 - [Ultralytics Training Documentation](https://docs.ultralytics.com/modes/train/)
